@@ -1,0 +1,4 @@
+[2025-04-18 10:00:01] [INFO] System started
+[2025-04-18 10:00:03] [WARNING] High memory usage
+[2025-04-18 10:00:05] [ERROR] Failed to connect to database
+[2025-04-18 10:00:07] [DEBUG] Processing step 1 completed
